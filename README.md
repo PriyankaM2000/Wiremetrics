@@ -1,1 +1,1 @@
-These file consist of HTML and CSS code for Portfolio webpage design.
+The HTML and CSS code written for Portfolio webpage design.
